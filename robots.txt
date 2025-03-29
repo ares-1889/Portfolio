@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ares-1889.github.io/sitemap-index.xml
+Host: https://ares-1889.github.io
